@@ -2,18 +2,18 @@
 
 
 ## Table of Contents
-* [General Info]Lending Club Case Study: LC is the largest online loan marketplace and offers variety of loans through an easy to use platform. The objective is to identify and develop an approach to understand key factors for loan defaults using EDA and suggest necessary recommendations to minimize losses in the future
-* [Technologies Used] Python
-* [Conclusions]Lending Club need to immediately develop a rule based approach based on features such as Annual Income, DTI, Revolving Utility, Balance etc to gauge the risk. Additionally, as we are leveraging easy to use platform, for text based data wherever applicable apply a drop down list to be able to dive deeper into analytics by identifying key categories (for example for column purpose). 
+* Lending Club Case Study: LC is the largest online loan marketplace and offers variety of loans through an easy to use platform. The objective is to identify and develop an approach to understand key factors for loan defaults using EDA and suggest necessary recommendations to minimize losses in the future
+* Technologies Used: Python, Pandas, Numpy
+* Conclusions: Lending Club need to immediately develop a rule based approach based on features such as Annual Income, DTI, Revolving Utility, Balance etc to gauge the risk. Additionally, as we are leveraging easy to use platform, for text based data wherever applicable apply a drop down list to be able to dive deeper into analytics by identifying key categories (for example for column purpose). 
 For the Future, need to plan for predictive analytics and dashboard available for loan processors and underwriters to minimize losses.
-* [Submitted By]Priyanuj Misra, Pratiksha Aggarwal
+* Submitted By Priyanuj Misra, Pratiksha Aggarwal
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Requirement to develop some heuristic strategies to minimize default thereby maximizing profit
 - LC a leading loan marketplace faces credit loss due to risky borrowers
-
+- Have added multiple user defined functions and preprocessing class in the notebook with all the explanation, please go through the ppt and the code file in detail.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
